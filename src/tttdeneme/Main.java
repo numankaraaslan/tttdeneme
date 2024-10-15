@@ -6,4 +6,9 @@ public class Main
 	{
 		System.err.println("Commit 1");
 	}
+
+	private void metod()
+	{
+		System.err.println("Task 1");
+	}
 }
