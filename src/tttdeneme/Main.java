@@ -12,7 +12,6 @@ public class Main
 		System.err.println("Task 1 deneme");
 		System.err.println("Task 2");
 		System.err.println("master");
-		// #task2_ex
 		System.err.println("master 2");
 	}
 }
