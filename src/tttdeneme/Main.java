@@ -9,6 +9,8 @@ public class Main
 
 	private void metod()
 	{
+		System.err.println("Task 1 deneme");
 		System.err.println("Görev 2");
+		System.err.println("master");
 	}
 }
