@@ -9,6 +9,6 @@ public class Main
 
 	private void metod()
 	{
-		System.err.println("Task 1");
+		System.err.println("Task 1 deneme");
 	}
 }
